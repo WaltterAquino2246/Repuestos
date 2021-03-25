@@ -1,0 +1,9 @@
+C:\Users\walter\source\repos\Repuestos\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\walter\source\repos\Repuestos\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\walter\source\repos\Repuestos\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.vbprojAssemblyReference.cache
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.vb
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\walter\source\repos\Repuestos\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

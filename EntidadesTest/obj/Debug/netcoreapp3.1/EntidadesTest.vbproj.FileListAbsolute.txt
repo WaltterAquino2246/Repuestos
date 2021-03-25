@@ -1,0 +1,16 @@
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.exe
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.deps.json
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.runtimeconfig.json
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.runtimeconfig.dev.json
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.dll
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\EntidadesTest.pdb
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.AssemblyInfo.vb
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.vbproj.CoreCompileInputs.cache
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.vbproj.CopyComplete
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.dll
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.pdb
+C:\Users\walter\source\repos\Repuestos\EntidadesTest\obj\Debug\netcoreapp3.1\EntidadesTest.genruntimeconfig.cache
